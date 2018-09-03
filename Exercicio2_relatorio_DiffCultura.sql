@@ -10,7 +10,7 @@ Realizamos os seguinte calculo.:
 select 
 l.Id_cultura_lavoura 'Código Cultura',
 c.desc_cultura 'cultura',
-avg((ty.Produtividade_tratamento - ta.Produtividade_tratamento)/l.TamColhido_lavoura*10000)  'Media da Diferença de Produtividade por áreas entre tratamento'
+Round(avg((ty.Produtividade_tratamento - ta.Produtividade_tratamento)/(l.TamColhido_lavoura*10000)),2)  'media_Diff_Prod_Absoluta_Cultura'
 from Tratamento_Relatorio tr
 inner join Tratamento ty
 on tr.id_tratamento_yara = ty.Id_tratamento

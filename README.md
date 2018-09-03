@@ -11,7 +11,7 @@ O Diretório Compõe os seguintes arquivos:
 #solucao_yara_Lavouras_Demonstrativas.docx - Solução em arquivo word dos 4 exercícios.
 #solucao_yara_Lavouras_Demonstrativas.pdf - Solução em PDF dos 4 exercícios
 #Exercicio2_DDL_yara.sql - Solução em arquivo SQL do exercício 2 - Criação das estruturas de tabela
-#Exercicio2_relatorio_DiffCultura.sql - Solução em arquivo SQL do exercício 2 - Relatório de média de diferença por Cultura
+#Exercicio2_Relatorio_DiffCultura.sql - Solução em arquivo SQL do exercício 2 - Relatório de média de diferença por Cultura
 #Exercicio2_Relatorio_DiffUF.sql - Solução em arquivo SQL do exercício 2 - Relatório de média de diferença por UF
 
 Github: https://github.com/DennCardoso/Yara-International---Lavouras-Demonstrativas
