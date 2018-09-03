@@ -14,6 +14,8 @@ O Diretório Compõe os seguintes arquivos:
 #Exercicio2_relatorio_DiffCultura.sql - Solução em arquivo SQL do exercício 2 - Relatório de média de diferença por Cultura
 #Exercicio2_Relatorio_DiffUF.sql - Solução em arquivo SQL do exercício 2 - Relatório de média de diferença por UF
 
+Github: https://github.com/DennCardoso/Yara-International---Lavouras-Demonstrativas
+
 Aplicações utilizadas:
 
 #Visual Paradigm
